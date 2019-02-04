@@ -1198,7 +1198,7 @@ UCyB5mu9L9BhB-3UhX2tfRrw Alex Paiho; антропоморфный пингвин
 UCgQIb5Y75gosQdV6Q3Z6SJw Kris Chemezova (забанен)
 UCH-ZQMkNKuhQNDFL8UNH0UQ Steppa Style (забанен)
 UC8C_Owvt7cQoFtucp4liZQA командор созидания (забанен)
-[?] UC9jE9wQv9fbnrTBNfGfqfQA Кирилл Глебов
+ UC9jE9wQv9fbnrTBNfGfqfQA Кирилл Глебов
  
 
 20 января 2018:
@@ -1283,8 +1283,8 @@ UCvKsE99A-xXTa8b-0T8difg Zary Bili (забанен)
 UCizGnFLBQnuxcrsmOPNX4aw подсматривающий из шкафа (забанен)
 UCiVb8VzvejBbflIW3AAX3-g pavel irets (забанен)
 UCkq1a2lJWkvTaAaQ2Jhf3PA alex smrnw (забанен)
-[?] UCALlmV154URcgj_pn5BjguA Элизабет Лютова (забанен)
-[?] UCUAmOs1Iv0TjthJizfSaCHw Авдей Манукян (забанен)
+ UCALlmV154URcgj_pn5BjguA Элизабет Лютова (забанен)
+ UCUAmOs1Iv0TjthJizfSaCHw Авдей Манукян (забанен)
 UC8y4lVSXyeVg0UdeIck_x_Q Степан Сойкин
 UCvr2jEHqMdmh6EpQm0JbwGg Валерия Сушак
  
@@ -1298,8 +1298,8 @@ UCxVTna9ttaWryqU2v0M6_Gw Zazaqa Guga (забанен)
 UCLme_eJWp9V0LlIDo5NYMnA Антон Пальчиков (забанен)
 UCdJJdoFY8yviAXaAAeL6kRQ AntoniO CaligulA (забанен)
 UCWSNI4QyJ_J3ee7NzTA1zww darya selina (забанен)
-[?] UCXUmfopWn5rv8mS8ETjuRgw Лариса Тюрина (забанен)
-[?] UCD05f9zPqKRXBUhNSYnJm7A Андрон Копосов (забанен)
+ UCXUmfopWn5rv8mS8ETjuRgw Лариса Тюрина (забанен)
+ UCD05f9zPqKRXBUhNSYnJm7A Андрон Копосов (забанен)
 UCu0nv2ypzI6CEeWICZWu2AQ Максим Бутаков
 UCnwJNjkQiverHRv9z2NOPBg Леонид Брагин
  
@@ -1609,9 +1609,9 @@ UCXSYBRQt7df7RHBURopQDKg Сергей Аникушкин
  
 
 6 марта 2018:
-[?] UCG4fz4vE9dgxERPdZqqXfHA Dana Borisova (забанен)
-[?] UCxVLhXe9zccW376kSgD31dw Роджер Смит (забанен)
-[?] UC0xwlxG8ztmJ7nKiaomkmZA Артур Завоеватель (забанен)
+ UCG4fz4vE9dgxERPdZqqXfHA Dana Borisova (забанен)
+ UCxVLhXe9zccW376kSgD31dw Роджер Смит (забанен)
+ UC0xwlxG8ztmJ7nKiaomkmZA Артур Завоеватель (забанен)
  
 
 7 марта 2018:
@@ -1937,7 +1937,7 @@ UC3EBa9l8C_aFShgDsVSf9XQ Прибыльнова Христина (забанен
  
 
 29 апреля 2018:
-[?] UC_Ioou7UlJfNNX20ulY6K0w Стас Гудзик
+ UC_Ioou7UlJfNNX20ulY6K0w Стас Гудзик
  
 
 1 мая 2018:
@@ -2201,7 +2201,7 @@ UChMluecaW_J4mgdWvG9SWVg Кристина Холодова
  
 
 18 июля 2018:
-[?] UCS8G0HYokvM9nUlFvlJeZkw Наталья Игнатьева
+ UCS8G0HYokvM9nUlFvlJeZkw Наталья Игнатьева
  
 
 19 июля 2018:
